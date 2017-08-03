@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "864552166571",
+    "firebase_url": "https://test-64cc8.firebaseio.com",
+    "project_id": "test-64cc8",
+    "storage_bucket": "test-64cc8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:864552166571:android:9112ecfa643826a6",
+        "android_client_info": {
+          "package_name": "com.iomedia.mscareconnect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "864552166571-src744et9s3oa61rstbc2kv2impetcp9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCj1sU6cxkFM3FwatfU6wnxmHA5qNny_cc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
